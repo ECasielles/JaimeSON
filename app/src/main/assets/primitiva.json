@@ -1,0 +1,44 @@
+{
+  "info": "Primitiva",
+  "sorteo": [
+    {
+      "id": "1",
+      "numero1": 13,
+      "numero2": 14,
+      "numero3": 15,
+      "numero4": 32,
+      "numero5": 40,
+      "numero6": 49,
+      "complementario": 8,
+      "reintegro": 5,
+      "fecha": "14-11-2015",
+      "numeroSorteo": 53
+    },
+    {
+      "id": "2",
+      "numero1": 11,
+      "numero2": 15,
+      "numero3": 25,
+      "numero4": 40,
+      "numero5": 47,
+      "numero6": 48,
+      "complementario": 6,
+      "reintegro": 5,
+      "fecha": "14-11-2015",
+      "numeroSorteo": 54
+    },
+    {
+      "id": "3",
+      "numero1": 2,
+      "numero2": 6,
+      "numero3": 29,
+      "numero4": 38,
+      "numero5": 40,
+      "numero6": 46,
+      "complementario": 19,
+      "reintegro": 8,
+      "fecha": "19-11-2015",
+      "numeroSorteo": 55
+    }
+  ]
+}
